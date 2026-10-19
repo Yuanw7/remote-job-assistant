@@ -1,0 +1,19 @@
+{
+  "name": "remote-job-assistant",
+  "version": "0.1.0",
+  "description": "Local-first remote job discovery and eligibility review",
+  "type": "module",
+  "main": "index.js",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "demo": "node index.js demo",
+    "collect": "node index.js collect",
+    "report": "node index.js report",
+    "test": "node --test",
+    "dashboard": "node index.js serve"
+  },
+  "private": true
+}

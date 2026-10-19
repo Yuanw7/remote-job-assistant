@@ -1,0 +1,5 @@
+{
+  "is_example": true,
+  "identity": { "residence_country": "CN", "timezone": "Asia/Shanghai" },
+  "targets": { "role_titles": ["frontend"], "remote_required": true, "excluded_companies": [] }
+}

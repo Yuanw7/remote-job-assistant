@@ -1,0 +1,35 @@
+{
+  "schema_version": "0.1",
+  "is_example": true,
+  "candidate_id": null,
+  "profile_version": 1,
+  "confirmed_at": null,
+  "identity": {
+    "full_name": null,
+    "email": null,
+    "phone": null,
+    "residence_country": null,
+    "residence_city": null,
+    "timezone": null,
+    "links": []
+  },
+  "targets": {
+    "role_titles": [],
+    "seniority": [],
+    "industries": [],
+    "remote_required": true,
+    "employment_types": null,
+    "salary_floor": null,
+    "salary_currency": null,
+    "salary_period": null,
+    "missing_salary_action": "review",
+    "available_work_windows": null,
+    "minimum_overlap_hours": null,
+    "excluded_companies": []
+  },
+  "work_authorizations": null,
+  "languages": null,
+  "facts": [],
+  "answer_library": [],
+  "resume_source_refs": []
+}
